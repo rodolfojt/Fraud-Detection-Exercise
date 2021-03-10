@@ -1,2 +1,2 @@
 # Fraud-Detection-Exercise
-This is an exercise made during a Machine Learning Engineer Nanodegree module from Udacity.
+This is an exercise made during a module in Machine Learning Engineer Nanodegree from Udacity.
