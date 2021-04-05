@@ -19,7 +19,18 @@ métricas:
 Com valores indesejados de Recall e Precisão foram feitas duas melhorias no
 modelo:
 
-1. Ajustes do modelo
-2. Lidando com o desbalanceamento das classes.
+1. Ajustes do modelo baseado em um cenário específico
+
+Métricas obtidas:
+1. Recall  :   0.852
+2. Precisão:   0.104
+3. Acurácia:   0.988
+
+2. Lidando com o desbalanceamento das classes
+
+Métricas obtidas:
+1. Recall  :   0.867
+2. Precisão:   0.147
+3. Acurácia:   0.992
 
 O código referência por ser encontrado [aqui](https://github.com/udacity/ML_SageMaker_Studies/blob/master/Payment_Fraud_Detection/Fraud_Detection_Exercise.ipynb).
